@@ -1,45 +1,44 @@
-# Hi, I'm Benjamin 👋
+# Benjamin Panzer — Linux, Cloud, and Cybersecurity
 
-Aspiring **Cloud Linux Security Engineer** focused on:
+I focus on building secure and reliable Linux and cloud environments using RHEL, Ubuntu, Proxmox, Ansible, Kubernetes, and multiple cloud platforms. My work emphasizes structure, automation, and clear documentation—bringing stability and repeatability to everything I build.
 
-- 🐧 Linux Administration (Arch, Ubuntu, Kali)
-- ☁️ Azure • AWS • OCI
-- 🔐 Security: Hardening • IAM • Logging • SIEM
-- 🛠 Automation: Bash • Python • Ansible • Terraform
-- 🧩 Containers: Docker • Kubernetes (CKA Path)
+I am currently completing the Information Technology Professional Diploma (TriOS College, March 2026) with consistently strong academic performance, including a 96.33% final grade in Server, Cloud & Automation Technologies. My recent projects demonstrate practical experience in hybrid cloud design, automation workflows, Linux administration, and security fundamentals.
 
 ---
 
-## 🚀 Current Focus (Phase 1)
-Building a complete Linux + Cloud + Security foundation:
+## Current Work
 
-- Users, Groups, Sudo, Permissions, ACLs  
-- systemd, Logging (journalctl), Firewalls  
-- SELinux basics  
-- Bash & Python scripting  
-- Ansible basics  
-- Docker fundamentals  
-- Full lab documentation + scripts uploaded to GitHub  
+Developing a structured Linux + Cloud + Security foundation focused on:
 
-📂 **Main project repo:**  
-👉 [linux-cloud-security-mastery](https://github.com/YOUR_USERNAME/linux-cloud-security-mastery)
+- Linux system administration (RHEL + Ubuntu)
+- SELinux, firewalld, journald, systemd
+- Bash scripting, Python fundamentals, CLI tools
+- Ansible automation for Linux and Windows
+- Kubernetes basics (kubeadm, containerd)
+- Docker and container fundamentals
+- Documentation-first engineering practice
 
----
-
-## 📘 Roadmap (12–18 Months)
-- Phase 1: Linux + Ansible + Cloud + Docker  
-- Phase 2: Azure Admin (AZ-104) + K8s + Terraform  
-- Phase 3: CKA-level K8s + DevSecOps basics  
-- Phase 4: AZ-500 + Security+ / ISC2 CC  
-- Phase 5: Cloud Security • DevSecOps • SRE • DFIR  
+**Main project repository:**  
+👉 https://github.com/sneakyturtlekungfu/linux-cloud-security-mastery
 
 ---
 
-## 🧰 Tools I Use
-Linux • Proxmox • Ansible • Docker • Kubernetes  
-Azure • AWS • OCI • Git • GitHub • VS Code
+## Key Projects
 
----
+### Hybrid Cloud Automation Project (SCAT Final — 96.33%)
 
-## 💡 About Me
-Always learning, always breaking/fixing things, always improving.
+Designed and deployed a hybrid cloud environment integrating:
+
+- A Proxmox private cloud  
+- Ansible control node (LXC), Linux web server, Windows Server Core, Kubernetes development node  
+- A public Ubuntu server on OCI  
+- Automated configuration and deployment across Linux and Windows  
+- Baseline storage and performance metrics  
+- Full documentation with diagrams, configurations, and playbooks  
+
+This project strengthened my skills in automation, hybrid networking, and environment orchestration.
+
+### RHEL Hardening & Administration Toolkit
+
+Active development of a RHEL hardening framework, SELinux rules, firewalld baselines, auditd configuration, and CLI tools stored under:
+
